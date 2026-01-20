@@ -46,7 +46,7 @@ Both **Claude Code** and **GitHub Copilot** automatically read all `.md` files i
 
 ```bash
 # Clone the repository
-git clone https://github.com/piertwo/ai-instructions.git
+git clone https://github.com/nikherrmann/ai-instructions.git
 cd ai-instructions
 
 # Run setup (creates ~/.ai-instructions and adds instr to PATH)
